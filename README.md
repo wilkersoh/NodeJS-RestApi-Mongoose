@@ -1,8 +1,9 @@
 *  Postman control
+*  Post error handling
 *  findByIdAndRemove (id, options, callback)
 *  findByIdAndUpdate (id, update, options, callback
 *  index: "2dsphere" 是一个球体，A点去B点，能从前面也能从后面到达
-* ref html tag
+*  ref html tag
 
 <p>在database做完schema和model, exports出去</p>
 
